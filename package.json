@@ -1,5 +1,5 @@
 {
-  "name": "js-to-yaml",
+  "name": "@threatcode/js-to-yaml",
   "version": "1.2.1",
   "description": "\"A node module to convert JSON TO YAML\"",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "util"
   ],
   "engines": {
-    "node": ">= 19.6.1"
+    "node": ">= 19.6.0"
   },
   "author": "threatcode",
   "license": "ISC",
