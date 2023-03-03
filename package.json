@@ -1,0 +1,36 @@
+{
+  "name": "js-to-yaml",
+  "version": "1.2.1",
+  "description": "\"A node module to convert JSON TO YAML\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "remedial": "^1.0.8",
+    "remove-trailing-spaces": "^1.0.8"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threatcode/js-to-yaml.git"
+  },
+  "keywords": [
+    "yaml",
+    "yml",
+    "json",
+    "cli",
+    "util"
+  ],
+  "engines": {
+    "node": ">= 19.6.1"
+  },
+  "author": "threatcode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/threatcode/js-to-yaml/issues"
+  },
+  "homepage": "https://github.com/threatcode/js-to-yaml#readme"
+}
