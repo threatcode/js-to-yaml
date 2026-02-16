@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "remedial": "^1.0.8",
-    "remove-trailing-spaces": "^1.0.8"
+    "remove-trailing-spaces": "^1.0.9"
   },
   "devDependencies": {
     "jest": "^29.4.3"
